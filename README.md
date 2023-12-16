@@ -45,11 +45,11 @@ Here are some ideas to get you started:
            
           
 
-<!-- [![@ashvini's Holopin board](https://holopin.me/ashvini)](https://holopin.io/@ashvini) -->
+ [![@ashvini's Holopin board](https://holopin.me/ashvini)](https://holopin.io/@ashvini) 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21276446&show_icons=true&theme=codeSTACKr)
-<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) 
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21276446&theme=tokyonight)-->
